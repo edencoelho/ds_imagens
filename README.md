@@ -8,7 +8,7 @@
 
 ## Performance
 
-O modelo treinado possui performance de **97.93%**.
+Your dataset_imagens (2022-08-20 8:53am) model has finished training in 12 minutes and achieved 99.5% mAP , 69.8% precision , and 100.0% recall .
 
 ### Output do bloco de treinamento
 
