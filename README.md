@@ -852,7 +852,7 @@ Results saved to runs/train/exp
 
 
 ## Roboflow
-https://app.roboflow.com/ia-iqcs5/projeto-final---modelos-preditivos-conexionistas/browse
+https://app.roboflow.com/datasetimagens/dataset_imagens/overview
 ## HuggingFace
 https://huggingface.co/robertosa13/images_modelos_conexionistas/tree/main
   
