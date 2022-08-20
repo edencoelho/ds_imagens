@@ -853,6 +853,5 @@ Results saved to runs/train/exp
 
 ## Roboflow
 https://app.roboflow.com/datasetimagens/dataset_imagens/overview
-## HuggingFace
-https://huggingface.co/robertosa13/images_modelos_conexionistas/tree/main
+
   
