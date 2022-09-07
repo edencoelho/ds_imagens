@@ -840,11 +840,8 @@ Results saved to runs/train/exp2
 </details>
 
 ### Evidências do treinamento
-**![image](https://user-images.githubusercontent.com/90226923/184630157-e4300519-75b6-4f34-b418-39f3ec937281.png)
-  
-  **
-  
-  ![image](https://user-images.githubusercontent.com/90226923/184630217-89f0fc77-55b9-4204-8f59-d9ee2360a55e.png)
+
+  Evidências em anexo
 
 
 ## Roboflow
